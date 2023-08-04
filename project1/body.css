@@ -1,0 +1,37 @@
+/* body.css */
+.container {
+    background-image: url("21.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    color:white;
+    
+  }
+  
+  .container h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+  }
+  
+  .container h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+  }
+  
+  .container button {
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-left: 5rem;
+  }
+  
